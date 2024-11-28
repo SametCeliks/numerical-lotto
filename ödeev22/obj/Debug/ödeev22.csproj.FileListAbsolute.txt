@@ -1,0 +1,26 @@
+C:\Users\Win10 PRO\source\repos\ödeev22\ödeev22\bin\Debug\ödeev22.exe.config
+C:\Users\Win10 PRO\source\repos\ödeev22\ödeev22\bin\Debug\ödeev22.exe
+C:\Users\Win10 PRO\source\repos\ödeev22\ödeev22\bin\Debug\ödeev22.pdb
+C:\Users\Win10 PRO\source\repos\ödeev22\ödeev22\obj\Debug\ödeev22.csprojAssemblyReference.cache
+C:\Users\Win10 PRO\source\repos\ödeev22\ödeev22\obj\Debug\ödeev22.Form1.resources
+C:\Users\Win10 PRO\source\repos\ödeev22\ödeev22\obj\Debug\ödeev22.Properties.Resources.resources
+C:\Users\Win10 PRO\source\repos\ödeev22\ödeev22\obj\Debug\ödeev22.csproj.GenerateResource.cache
+C:\Users\Win10 PRO\source\repos\ödeev22\ödeev22\obj\Debug\ödeev22.csproj.CoreCompileInputs.cache
+C:\Users\Win10 PRO\source\repos\ödeev22\ödeev22\obj\Debug\ödeev22.exe
+C:\Users\Win10 PRO\source\repos\ödeev22\ödeev22\obj\Debug\ödeev22.pdb
+D:\ödev\ödeev22\ödeev22\bin\Debug\ödeev22.exe.config
+D:\ödev\ödeev22\ödeev22\obj\Debug\ödeev22.exe
+D:\ödev\ödeev22\ödeev22\obj\Debug\ödeev22.pdb
+D:\ödev\ödeev22\ödeev22\bin\Debug\ödeev22.exe
+D:\ödev\ödeev22\ödeev22\bin\Debug\ödeev22.pdb
+D:\ödev\ödeev22\ödeev22\obj\Debug\ödeev22.csprojResolveAssemblyReference.cache
+D:\ödev\ödeev22\ödeev22\obj\Debug\ödeev22.Form1.resources
+D:\ödev\ödeev22\ödeev22\obj\Debug\ödeev22.Properties.Resources.resources
+D:\ödev\ödeev22\ödeev22\obj\Debug\ödeev22.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Masaüstü\rpogramcılık_projr\OKUL\ödeev22\ödeev22\obj\Debug\ödeev22.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\rpogramcılık_projr\OKUL\ödeev22\ödeev22\obj\Debug\ödeev22.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\rpogramcılık_projr\OKUL\ödeev22\ödeev22\obj\Debug\ödeev22.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\rpogramcılık_projr\OKUL\ödeev22\ödeev22\obj\Debug\ödeev22.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\rpogramcılık_projr\OKUL\ödeev22\ödeev22\obj\Debug\ödeev22.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\rpogramcılık_projr\OKUL\ödeev22\ödeev22\obj\Debug\ödeev22.exe
+C:\Users\user\OneDrive\Masaüstü\rpogramcılık_projr\OKUL\ödeev22\ödeev22\obj\Debug\ödeev22.pdb
